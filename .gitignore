@@ -1,0 +1,12 @@
+node_modules
+dist
+dist-ssr
+*.local
+.DS_Store
+npm-debug.log*
+yarn-error.log*
+.env
+.env.*
+
+# 课程作业参考资料（不发布到仓库）
+README/
